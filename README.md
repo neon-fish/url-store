@@ -7,7 +7,7 @@ This may be useful for small web games/toys/apps/etc. where the application stat
 
 [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) is used to "crush" the input JSON.
 
-**View the [live demo](https://url-store-test.netlify.app
+**View the [live demo here](https://url-store-test.netlify.app
 )**
 
 ## Development
